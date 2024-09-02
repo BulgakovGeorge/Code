@@ -6,3 +6,5 @@ New text(Second)
 Added text in new branch
 
 First new commit
+
+Second new commit
